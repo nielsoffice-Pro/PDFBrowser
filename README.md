@@ -1,5 +1,5 @@
 # PDFBrowser
-PDF interpreter or ready ?? 
+PDF interpreter or reader ?? 
 
 ```JS
   // Check if URL is PDF
